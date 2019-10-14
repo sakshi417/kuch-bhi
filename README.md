@@ -1,5 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html><ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+
+<ol>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ol>
 <head>
 <title>Page Title</title>
 </head>
